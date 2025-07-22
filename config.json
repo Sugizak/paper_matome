@@ -1,0 +1,68 @@
+{
+    "Sugizaki": {
+        "folder_path": "//nas3/Public/Users/Sugizaki/論文",
+        "contents": {
+            "Genre": {
+                "type": "dropdown",
+                "options": [
+                    "EMP",
+                    "QET",
+                    "その他"
+                ]
+            },
+            "Type": {
+                "type": "dropdown",
+                "options": [
+                    "学術論文",
+                    "学位論文",
+                    "書籍",
+                    "その他"
+                ]
+            },
+            "IsRead": {
+                "type": "dropdown",
+                "options": [
+                    "〇",
+                    "△",
+                    "×"
+                ]
+            },
+            "Overview": {
+                "type": "text"
+            }
+        }
+    },
+    "asdf": {
+        "folder_path": "論文のあるフォルダパスをここに入力",
+        "contents": {
+            "Genre": {
+                "type": "dropdown",
+                "options": [
+                    "EMP",
+                    "QET",
+                    "その他"
+                ]
+            },
+            "Type": {
+                "type": "dropdown",
+                "options": [
+                    "学術論文",
+                    "学位論文",
+                    "書籍",
+                    "その他"
+                ]
+            },
+            "IsRead": {
+                "type": "dropdown",
+                "options": [
+                    "〇",
+                    "△",
+                    "×"
+                ]
+            },
+            "Overview": {
+                "type": "text"
+            }
+        }
+    }
+}

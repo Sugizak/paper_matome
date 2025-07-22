@@ -1,0 +1,68 @@
+{
+    "Sugizaki": {
+        "folder_path": "C:/Users/gohan/Documents/大学関係/量子ダイナミクス/読み物/読み物",
+        "contents": {
+            "Genre": {
+                "type": "dropdown",
+                "options": [
+                    "EMP",
+                    "QET",
+                    "その他"
+                ]
+            },
+            "Type": {
+                "type": "dropdown",
+                "options": [
+                    "学術論文",
+                    "学位論文",
+                    "書籍",
+                    "その他"
+                ]
+            },
+            "IsRead": {
+                "type": "dropdown",
+                "options": [
+                    "〇",
+                    "△",
+                    "×"
+                ]
+            },
+            "Overview": {
+                "type": "text"
+            }
+        }
+    },
+    "Sugizaki2": {
+        "folder_path": "C:/Users/gohan/Documents/大学関係/量子ダイナミクス/読み物/読み物",
+        "contents": {
+            "Genre": {
+                "type": "dropdown",
+                "options": [
+                    "EMP",
+                    "QET",
+                    "その他"
+                ]
+            },
+            "Type": {
+                "type": "dropdown",
+                "options": [
+                    "学術論文",
+                    "学位論文",
+                    "書籍",
+                    "その他"
+                ]
+            },
+            "IsRead": {
+                "type": "dropdown",
+                "options": [
+                    "〇",
+                    "△",
+                    "×"
+                ]
+            },
+            "Overview": {
+                "type": "text"
+            }
+        }
+    }
+}
